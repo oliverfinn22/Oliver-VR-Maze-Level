@@ -13,3 +13,4 @@ Select your team. You can create a team with an apple id for free.
 Your iphone may require you to adjust VPN management settings to trust the app developer. 
 
 WARNING: 6 .png files were not able to be added to Materials/Assets/Stylized Lava PBR Texture/Textures folder. 
+Github message: "Yowza, that’s a big file. Try again with a file smaller than 25MB."
